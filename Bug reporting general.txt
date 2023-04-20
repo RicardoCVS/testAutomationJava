@@ -1,0 +1,29 @@
+Bug encontrado en: [URL de la página web]
+Fecha de detección: 21 de abril de 2023
+
+Resumen del bug:
+En la página de inicio, al hacer clic en el enlace "Contacto" en la barra de navegación, la página no carga correctamente y muestra un mensaje de error "404 - Página no encontrada".
+
+Pasos para reproducir el bug:
+
+Ir a [URL de la página web]
+Hacer clic en "Contacto" en la barra de navegación superior.
+Resultado esperado:
+La página de contacto debería cargarse correctamente, mostrando un formulario de contacto o información de contacto relevante.
+
+Resultado actual:
+Se muestra un mensaje de error "404 - Página no encontrada".
+
+Evidencia:
+
+Captura de pantalla del mensaje de error: [enlace a la captura de pantalla]
+Clasificación del bug:
+
+Prioridad: Alta. La página de contacto es esencial para que los usuarios puedan comunicarse con el equipo de la página web y reportar problemas o hacer consultas.
+
+Impacto: Medio. Aunque la página de contacto es importante, los usuarios aún pueden navegar por otras secciones de la página web y obtener información sobre los productos o servicios ofrecidos. Sin embargo, la falta de un canal de comunicación eficiente puede generar una mala experiencia para el usuario y afectar la reputación del sitio.
+
+Probabilidad de ocurrencia: Alta. El bug se produce cada vez que se intenta acceder a la página de contacto desde la barra de navegación en la página de inicio.
+
+Sugerencia para la solución:
+Verificar si la URL del enlace "Contacto" en la barra de navegación es correcta. Si la URL es correcta, comprobar si la página de contacto existe en el servidor y si está correctamente configurada en el archivo .htaccess o en el servidor web. Si la URL es incorrecta, actualizarla con la URL correcta de la página de contacto.
